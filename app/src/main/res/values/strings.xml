@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">Salon</string>
+
+    <string name="please_wait_str">Please wait</string>
+    <string name="hair_cutting_str">HAIR CUTTING</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_time">Select Time</string>
+    <string name="book">Book</string>
+    <string name="close">Close</string>
+    <string name="showArtistStr">Show Artist</string>
+
+
+</resources>
